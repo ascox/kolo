@@ -1,4 +1,0 @@
-kolo
-====
-
-Websites for KIBCA
